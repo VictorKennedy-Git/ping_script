@@ -10,9 +10,11 @@ Este script realiza testes de conectividade (ping) em uma lista de domínios (no
    ```
    google.com
    facebook.com
+   _gateway
    (linha em branco, para leitura completa do arquivo)
    ```
-#### SEMPRE DEIXE UMA LINHA EM BRANCO NO FINAL DOS TXT DO DOMINIOS.
+####OBS: SEMPRE DEIXE UMA LINHA EM BRANCO NO FINAL DOS TXT DO DOMINIOS.
+
 2. **Torne o script executável**:
    ```bash
    chmod +x script_ping.sh
