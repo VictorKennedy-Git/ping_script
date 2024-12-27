@@ -1,4 +1,4 @@
-# README - Script de Teste de Ping (IPv4 e IPv6)
+# Script de Teste de Ping (IPv4 e IPv6)
 
 ## Para que Serve
 
