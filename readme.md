@@ -13,17 +13,19 @@ Este script realiza testes de conectividade (ping) em uma lista de domínios (no
    _gateway
    (linha em branco, para leitura completa do arquivo)
    ```
-####OBS: SEMPRE DEIXE UMA LINHA EM BRANCO NO FINAL DOS TXT DO DOMINIOS.
 
 2. **Torne o script executável**:
    ```bash
    chmod +x script_ping.sh
    ```
-3. **Execute o script**:
+3. **Execute o script tempo padrão 1 minuto**:
    ```bash
    ./script_ping.sh
    ```
-
+4. **Execução por tempo determinado EM SEGUNDOS**:
+   ```bash
+   ./script_ping.sh 300
+   ```
 ## Exemplo de Log
 
 ```
