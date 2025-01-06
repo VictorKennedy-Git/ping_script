@@ -22,10 +22,6 @@ Este script realiza testes de conectividade (ping) em uma lista de domínios (no
    ```bash
    ./script_ping.sh
    ```
-4. **Execução por tempo determinado EM SEGUNDOS**:
-   ```bash
-   ./script_ping.sh 300
-   ```
 ## Exemplo de Log
 
 ```
