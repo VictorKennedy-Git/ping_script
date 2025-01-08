@@ -24,7 +24,7 @@ Certifique-se de que esses pacotes estão instalados no seu sistema antes de exe
    - 60 segundos ⏱️
    - 5, 15, 30 minutos 🕒
    - 1, 2, 4, 8, 16, 24 horas 🕙
-   - "Outro" para personalizar o tempo (ainda não implementado).
+   - "Outro" para personalizar o tempo.
 
 4. **Escolher os domínios para monitoramento:**
    O script apresentará uma lista de domínios (como youtube.com, google.com, facebook.com) para o qual você pode realizar o teste de conectividade. Você pode selecionar um ou mais domínios. Caso não queira usar os domínios padrões, pode adicionar novos.
@@ -61,7 +61,6 @@ data_hora,dominio,ip,tempo,ssid
 
 ### Futuras Implementações
 
-- [ ] **Tempo Personalizado**: Implementar a opção para o usuário definir um tempo de teste personalizado. ⏰
 - [ ] **Monitoramento de Velocidade**: Adicionar funcionalidade para medir a velocidade de download/upload durante os testes. 🚀
 - [ ] **Exportação de Logs (CSV/JSON)**: Permitir salvar os logs em formatos CSV ou JSON. 📊
 - [ ] **Alertas de Conectividade**: Implementar notificações para falhas repetidas de ping ou tempos de resposta elevados. ⚠️
