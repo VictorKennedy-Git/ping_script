@@ -56,7 +56,6 @@ data_hora,dominio,ip,tempo,ssid
 ### Observações
 
 - **Falha no ping**: Se o ping para um domínio falhar, o log será registrado como "Falha no ping" ao invés de um tempo de resposta. 🚫
-- **Tempo Personalizado**: A opção "Outro" ainda não está implementada para tempo personalizado, mas a estrutura do script está preparada para isso. 🔧
 - O script irá gerar os logs conforme a conectividade com os domínios escolhidos em ambos os protocolos (IPv4 e IPv6). 🌍
 
 ### Futuras Implementações
